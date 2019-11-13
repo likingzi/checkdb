@@ -1,6 +1,3 @@
--- NAME
---   checkdb.sql
---
 -- DESCRIPTION
 --   This script check the DB and create reports.
 --
